@@ -14,7 +14,8 @@
 
 📫 **Reach out:**  
 [![Gmail](https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png)](mailto:jyotiprakash5221@gmail.com)  
-[![LinkedIn](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/jyoti-prakash-panda-86055a286/)  
+[![LinkedIn](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)](https://www.linkedin.com/in/jyoti-prakash-panda-86055a286/)
+ 
 
 ## 🛠️ Tech Stack & Tools  
 
