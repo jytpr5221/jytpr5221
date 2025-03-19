@@ -12,15 +12,21 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/jyoti-prakash-panda-86055a286/)  
 
 ## 🛠️ Tech Stack & Tools:
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM2NDM0MGJiMTMxZDM1OWEyYjY3MjFmNGFkNzE5NWE0ZTM5NDkxMCZjdD1n/OcZp0maz6ALY1nCbd6/giphy.gif" width="300px" />
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300px" />
 
 ## 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jytpr5221&show_icons=true&theme=dark)
