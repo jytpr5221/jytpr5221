@@ -1,6 +1,7 @@
-![Profile Views](https://komarev.com/ghpvc/?username=jytpr5221&color=blue)  
-# 👋 Hey there, I’m Jyoti Prakash Panda (@jytpr5221)  
+![Profile Views](https://komarev.com/ghpvc/?username=jytpr5221&color=blue) 
 
+# 👋 Hey there, I’m Jyoti Prakash Panda (@jytpr5221)  
+<img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI0MDM0ODQsIm5iZiI6MTc0MjQwMzE4NCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE5VDE2NTMwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ3YThlNjU0NDJlM2JhMWEzOWRkNjlhYmMwZjMyMTgxNjliZjViNjE0MDExZDY2YzBiNjc0YjIyZjY4M2E4OTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fQYt3qtWhpO44DbtjEPnQ-LxSHqPYpXtUoavRrKG914">
 <table>
 <tr>
 <td>
@@ -12,8 +13,8 @@
 🔍 **Always learning** and refining my skills in **Node.js, MongoDB, Redis, Docker, and system design**.  
 
 📫 **Reach out:**  
-📧 [jyotiprakash5221@gmail.com](mailto:jyotiprakash5221@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/jyoti-prakash-panda-86055a286/)  
+[![Gmail](https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png)](mailto:jyotiprakash5221@gmail.com)  
+[![LinkedIn](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/jyoti-prakash-panda-86055a286/)  
 
 ## 🛠️ Tech Stack & Tools  
 
